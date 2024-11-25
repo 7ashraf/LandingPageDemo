@@ -1,0 +1,49 @@
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Runtime files
+*.pid
+*.cache
+*.pdb
+*.exe
+*.dll
+
+# Configuration files
+appsettings.Development.json
+
+# SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Dependency directory
+wwwroot/lib/
+
+# Generated code
+Generated_Code/
+
+# Dotnet dependencies
+*.vs
+.idea/
+.vscode/
+project.lock.json
+global.json
+
+# npm dependencies
+node_modules/
